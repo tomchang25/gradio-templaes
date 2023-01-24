@@ -1,1 +1,1 @@
-# gradio-templaes
+# gradio-templates
